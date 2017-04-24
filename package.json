@@ -1,0 +1,21 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Language Interpretation and Recognition Interface",
+  "main": "edoc.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZacharyJBartlett/Liri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZacharyJBartlett/Liri/issues"
+  },
+  "homepage": "https://github.com/ZacharyJBartlett/Liri#readme"
+}
